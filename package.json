@@ -1,0 +1,27 @@
+{
+  "name": "sns-token-refresh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/webhook": "^7.0.2",
+    "axios": "^1.6.8",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "googleapis": "^134.0.0",
+    "helmet": "^7.1.0",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.45",
+    "mongoose": "^8.2.3",
+    "morgan": "^1.10.0",
+    "node-cron": "^3.0.3",
+    "node-schedule": "^2.1.1"
+  }
+}
